@@ -152,6 +152,6 @@ bank-marketing-analysis
 - Computer Science Graduate
 - Aspiring Data Analyst / Data Scientist
 
-GitHub: https://github.com/YourUsername
+GitHub: https://github.com/FadyM128
 
-LinkedIn: https://linkedin.com/in/YourProfile
+LinkedIn: https://www.linkedin.com/in/fady-makram-044a39240
