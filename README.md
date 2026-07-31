@@ -98,6 +98,16 @@ The Power BI dashboard provides interactive insights into:
 - Marketing KPIs
 
 ---
+## 📊 Dashboard Preview
+
+### Overview
+![Overview](Image/over_view.png)
+
+### Customer Analysis
+![Customer Analysis](Image/customer_analysis.png)
+
+### Campaign Analysis
+![Campaign Analysis](Image/campaign_analysis.png)
 
 ## 📊 Key Insights
 
