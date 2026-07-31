@@ -113,10 +113,11 @@ The Power BI dashboard provides interactive insights into:
 
 Some important findings include:
 
-- Customer age and occupation significantly affect subscription decisions.
-- Previous campaign outcomes influence future customer responses.
-- Loan status and account balance contribute to customer behavior.
-- Machine learning models can effectively predict customer subscriptions.
+•	Longer customer conversations generally lead to higher subscription probability. 
+•	Previous successful campaigns significantly improve customer response. 
+•	Customer occupation influences marketing outcomes. 
+•	Contact method affects campaign effectiveness. 
+
 
 ---
 
