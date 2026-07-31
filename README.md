@@ -144,20 +144,10 @@ bank-marketing-analysis
 └── README.md
 ```
 
----
-
-## 🚀 Future Improvements
-
-- Hyperparameter Tuning
-- Feature Engineering
-- Model Deployment using Streamlit or Flask
-- Real-time Prediction API
-
----
 
 ## 👨‍💻 Author
 
-**Ahmed Mohamed**
+**Fady Makram**
 
 - Computer Science Graduate
 - Aspiring Data Analyst / Data Scientist
