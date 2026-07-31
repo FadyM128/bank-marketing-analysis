@@ -2,7 +2,9 @@
 
 ## 📌 Project Overview
 
-This project presents an end-to-end data analysis and machine learning solution for a bank marketing campaign. The objective is to analyze customer behavior, identify the factors influencing term deposit subscriptions, and build predictive models to support marketing decisions. An interactive Power BI dashboard was also developed to visualize key business insights.
+This project delivers an end-to-end data analytics and machine learning solution for a bank marketing campaign. The workflow covers data cleaning, preprocessing, exploratory data analysis (EDA), feature engineering, predictive modeling, model evaluation, and interactive dashboard development using Power BI.
+
+The project analyzes customer demographics, financial information, and previous marketing campaign data to identify the key factors influencing term deposit subscriptions. Multiple classification models were trained and compared using several evaluation metrics to select the best-performing model. Finally, business insights and recommendations were presented through an interactive Power BI dashboard to support data-driven marketing decisions.
 
 ---
 
@@ -54,18 +56,28 @@ The dataset includes information such as:
 
 ## 🔄 Project Workflow
 
-1. Data Collection
-2. Data Cleaning
-3. Exploratory Data Analysis (EDA)
-4. Data Preprocessing
-5. Feature Encoding
-6. Feature Scaling
-7. Machine Learning Model Training
-8. Model Evaluation
-9. Dashboard Development
-10. Business Recommendations
+- Data Understanding and Business Problem Definition
+- Data Quality Assessment
+- Data Cleaning and Preprocessing
+- Exploratory Data Analysis (EDA)
+- Feature Engineering and Encoding
+- Data Visualization
+- Machine Learning Model Development
+- Model Evaluation and Comparison
+- Interactive Power BI Dashboard Development
+- Business Insights and Recommendations
 
 ---
+## ✅ Key Project Tasks
+
+- Assessed data quality by checking missing values, duplicates, inconsistent categories, and outliers.
+- Cleaned and preprocessed customer data for analysis and machine learning.
+- Performed Exploratory Data Analysis (EDA) to identify customer behavior patterns and campaign trends.
+- Engineered and encoded features for predictive modeling.
+- Built and compared multiple classification models, including Logistic Regression, Decision Tree and Random Forest
+- Evaluated model performance using Accuracy, Precision, Recall, F1-score, and ROC-AUC.
+- Designed a three-page interactive Power BI dashboard for executive reporting, customer analysis, and campaign performance.
+- Generated business recommendations to improve marketing efficiency and customer targeting.
 
 ## 🤖 Machine Learning Models
 
@@ -75,7 +87,7 @@ The following classification models were implemented and evaluated:
 - Decision Tree
 - Random Forest
 - Support Vector Machine (SVM)
-- K-Nearest Neighbors (KNN)
+
 
 Evaluation metrics:
 
@@ -112,11 +124,13 @@ The Power BI dashboard provides interactive insights into:
 ## 📊 Key Insights
 
 Some important findings include:
-
-•	Longer customer conversations generally lead to higher subscription probability. 
-•	Previous successful campaigns significantly improve customer response. 
-•	Customer occupation influences marketing outcomes. 
-•	Contact method affects campaign effectiveness. 
+- Previous campaign success was one of the strongest indicators of future customer subscriptions.
+- Longer call durations were associated with higher subscription rates.
+- Cellular communication outperformed telephone contact in campaign effectiveness.
+- Customers contacted fewer times showed better conversion rates.
+- Customer occupation, education level, and account balance significantly influenced subscription decisions.
+- The best-performing machine learning model improved customer targeting by reducing prediction errors and
+  supporting more effective marketing strategies. 
 
 
 ---
