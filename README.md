@@ -104,10 +104,10 @@ The Power BI dashboard provides interactive insights into:
 ![Overview](Image/over_view.png)
 
 ### Customer Analysis
-![Customer Analysis](Image/customer_analysis.png)
+![Customer Analysis](Image/customer_anaylsis.png)
 
 ### Campaign Analysis
-![Campaign Analysis](Image/campaign_analysis.png)
+![Campaign Analysis](Image/campaign_anaylsis.png)
 
 ## 📊 Key Insights
 
